@@ -1,1 +1,1 @@
-{"name":"Isd structure.GitHub.io","tagline":"ISD Structure chart","body":"    <script src=\"http://code.jquery.com/jquery-1.10.2.min.js\"></script>\r\n    <script src=\"http://d3js.org/d3.v3.min.js\"></script>\r\n    <script src=\"dndTree.js\"></script>","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{"name":"Isd structure.GitHub.io","tagline":"ISD Structure chart","body":"    <div id=\"tree-container\"></div>","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
