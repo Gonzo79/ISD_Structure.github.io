@@ -1,0 +1,238 @@
+{
+    "name": "Phil Couser",
+    "children": [
+        {
+        "name": "National Information and Intelligence",
+        "children": [
+            {
+            "name": "Associate Director: Fiona Murphy",
+            "children": [
+                {
+                "name": "HOS: Roger Black",
+                "children": [
+                    {
+                "name": "Population Health",
+                "children":[
+                    {
+                        "name": "Service Manager: Susan Frame",
+                     "children": [{
+                        "name": "Andrew Deas"},
+                        {"name": "Gary King"},
+                        {"name": "Celina Davis"},
+                        {"name": "Callum MacDonald"},
+                        {"name": "Judith Tait"}]
+                        }]
+                        },
+                {"name": "Quality Indicators",
+                 "children":[
+                    {
+                "name": "Service Manager: Alan Finlayson",
+                     "children": [{
+                        "name": "Kirsty Anderson"},
+                        {"name": "Ross Elder"},
+                        {"name": "John Connor"},
+                        {"name": "Robyn Munro"}]
+                          }]
+                },
+                {"name": "Health Improvement",
+                 "children":[
+                    {
+                "name": "Service Manager: Kathryn Neill",
+                     "children": [{
+                        "name": "Richard Lawder"},
+                        {"name": "Annemarie Van Heelsum"},
+                        {"name": "Lee Barnsdale"},
+                        {"name": "Andrew Gasiorowski"}]
+                          }]
+                          },
+                 {"name": "Prescribing",
+                 "children":[
+                    {
+                "name": "Service Manager: Margaret Macleod",
+                     "children": [{
+                        "name": "Emma McNair"},
+                        {"name": "Vicky Elliot"},
+                        {"name": "Craig Collins"}]
+                          }]
+                          },
+                            {"name": "Resources",
+                 "children":[
+                    {
+                "name": "Service Manager: Judith Stark",
+                     "children": [{
+                        "name": "Tracey Steedman"},
+                        {"name": "Scott Buchanan"},
+                        {"name": "Liz Jameson"},
+                        {"name": "Donna Mikolajczak"}]
+                          }]
+                          }]
+                          },
+            {
+                "name": "HOS: Mike Muirhead",
+                 "children": [
+                    {
+                "name": "Health & Social Care Pathways",
+                "children":[
+                    {
+                        "name": "Service Manager: David Baird",
+                     "children": [{
+                        "name": "Gavin MacColl"},
+                        {"name": "Lisa Reedie"},
+                        {"name": "Stephen Halcrow"}]
+                        }]
+                        },
+                       {"name": "Primary & Secondary Care",
+                 "children":[
+                    {
+                "name": "Service Manager: Catherine Thomson",
+                     "children": [{
+                        "name": "Alison Burlison"},
+                        {"name": "Susan Jensen"},
+                        {"name": "Jill Ireland"},
+                       {"name": "Maighread Simpson"}]
+                          }]
+                          },
+                       {"name": "Stats Support",
+                 "children":[
+                    {
+                "name": "Service Manager: Richmond Davies",
+                     "children": [{
+                          "name": "Michelle Kirkpatrick"}]
+                          }]
+                          },
+                 {"name": "Service Access",
+                 "children":[
+                    {
+                "name": "Service Manager: Fiona Mackenzie",
+                     "children": [{
+                        "name": "Amy McKeon"},
+                        {"name": "Elaine Parry"},
+                        {"name": "Catriona Haddow"}]
+                          }]
+                 },
+                {"name": "Scottish Healthcare Audits",
+                 "children":[
+                    {
+                "name": "Service Manager: Stuart Baird",
+                     "children": [
+                        {"name": "Martin O'Neill"},
+                        {"name": "Jane Campbell"},
+                        {"name": "Linda Cullen"},
+                        {"name": "Hazel Dodds"},
+                        {"name": "Angela Kahn"},
+                        {"name": "Anita Pritchard"},
+                        {"name": "Kirsty Ward"},
+                        {"name": "Susan Stratton"}]
+                     }]
+                }]
+            }]
+              
+            }]
+            },
+                        
+        {
+        "name": "Planning Performance and Business Development",
+        "children": [
+                    {
+            "name": "Associate Director: Lorna Jackson",
+            "children": [
+                {
+                "name": "HOS: Fiona Russell",
+                "children": [
+                    {
+                "name": "Bespoke Specialist Services",
+                        "children":[
+                            {
+                        "name": "Service Manager: Joan Forrest",
+                     "children": [{
+                        "name": "Hannah Waite"},
+                        {"name": "Bill Ramsey"},
+                        {"name": "Kathy McGregor"},
+                        {"name": "Tracey Rapston"},
+                        {"name": "Ana Rodriguez"}]
+                        }]
+                        },
+                {"name": "SG Placements and Secondments",
+                 "children":[
+                    {
+                "name": "Service Manager: Nicola Rigglesford",
+                     "children": [{
+                        "name": "Terry McLaughlin"},
+                        {"name": "Jamie Pearson"},
+                        {"name": "Carroll Brown"}]
+                          }]
+                },
+                {"name": "Information Consultant Planning and Commisioning",
+                       "children": [{
+                        "name": "Jen Bishop"},
+                        {"name": "Jackie Caldwell"},
+                        {"name": "Fiona Campbell"},
+                                  {"name": "Stephen Young"},
+                                     {"name": "Richard Dobbie"},
+                                     {"name": "Barbara Graham"},
+                                     {"name": "Nelson Kennedy"},
+                                     {"name": "Matthew Armstrong"}]
+                          }]
+                          },
+            
+            {
+                "name": "HOS: Jonathan Cameron",
+                 "children": [
+                    {
+                "name": "Business Development",
+                "children":[
+                    {"name": "Service Manager: Michael Sibley",
+                     "children": [{
+                        "name": "Fiona Webster"},
+                        {"name": "Maureen Ireland"},
+                        {"name": "Meena Johnstone"},
+                        {"name": "Lindsay Mathie"},
+                        {"name": "Gerry Mulvena"},
+                        {"name": "Brian Murray"},
+                        {"name": "Margaret Quinn"},
+                        {"name": "Cath Stevenson"},
+                        {"name": "Jamie Gray"},
+                        {"name": "Laura Wood"}]
+                    },
+                     {"name": "Information Consultants Business Development",
+                       "children": [{
+                        "name": "Steve Kendrick"},
+                        {"name": "Sandra Robb"},
+                        {"name": "Alastair Philp"},
+                        {"name": "Katharine Sharpe"}]
+                      }]
+                          },
+                {"name": "Planning, Performance and Business Support",
+                 "children":[{
+                        "name": "Jane James"},
+                        {"name": "Angus MacAulay"},
+                        {"name": "Jackie Burman"}]
+                          }]
+            },
+                {
+                "name": "HOS: Manira Ahmad",
+                      "children": [
+                    {
+                "name": "LIST",
+                        "children":[
+                            {"name": "Service Manager: Philip Johnston"}]
+                    }]
+                },
+                           {
+                "name": "HOS: Steve Pavis",
+                      "children": [
+                    {
+                "name": "FARR Institute",
+                        "children":[
+                            {"name": "Service Manager: Anthea Springbett"},
+                       {"name": "Information Consultants FARR",
+                       "children": [{
+                        "name": "Fiona Campbell"},
+                        {"name": "Jackie Caldwell"},
+                        {"name": "Carole Morris"}]
+                      }]    
+                           }]
+                    }]
+                }]
+                    }]
+        }
