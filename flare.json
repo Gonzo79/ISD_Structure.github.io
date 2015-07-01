@@ -92,17 +92,8 @@
                        {"name": "Maighread Simpson"}]
                           }]
                           },
-                       {"name": "Stats Support",
-                 "children":[
-                    {
-                "name": "Service Manager: Richmond Davies",
-                     "children": [{
-                          "name": "Michelle Kirkpatrick"}]
-                          }]
-                          },
-                 {"name": "Service Access",
-                 "children":[
-                    {
+                     {"name": "Service Access",
+                 "children":[{
                 "name": "Service Manager: Fiona Mackenzie",
                      "children": [{
                         "name": "Amy McKeon"},
@@ -126,7 +117,6 @@
                      }]
                 }]
             }]
-              
             }]
             },
                         
@@ -234,5 +224,103 @@
                            }]
                     }]
                 }]
+                    },
+      {
+        "name": "Knowledge Services",
+        "children": [
+            {
+            "name": "Associate Director: Carol Sinclair",
+                "children": [
+                    {
+                        "name": "Web Services",
+                        "children": [
+                             {"name": "Service Manager: Gordon Flemming"}]
+                    },
+                                                
+                {       "name": "Library Services",
+                        "children": [
+                             {"name": "Service Manager: Gordon Flemming"}]
+                },
+                    {       "name": "Workforce Training and Development",
+                        "children": [
+                             {"name": "Service Manager: Gordon Flemming"}]
+                },
+                    {       "name": "Publication Services",
+                        "children": [
+                             {"name": "Service Manager: Gordon Flemming"}]
+                }]
+                               }]
+                      },
+   
+            
+               {
+        "name": "Data Management",
+        "children": [
+            {
+            "name": "Associate Director: Scott Heald",
+                "children": [
+                    {
+                        "name": "Data Support & Quality",
+                        "children": [
+                             {"name": "Service Manager: Susan Coull"}]
+                    },
+                                                
+                {       "name": "Data Modernisation & Information Assurance",
+                        "children": [
+                             {"name": "Service Manager: Peter Martin"}]
+                },
+                    {       "name": "Database Management",
+                        "children": [
+                             {"name": "Service Manager: Elaine Strange"}]
+                },
+                    {       "name": "Stats Support",
+                        "children": [
+                             {"name": "Service Manager: Richmond Davies"}]
+                }]
+                               }]
+                         },
+               {
+        "name": "Health Protection",
+        "children": [
+            {
+            "name": "Associate Director: Kate Harley",
+                 "children": [
+                    {
+                        "name": "Healthcare Associated Infections",
+                        "children": [
+                             {"name": "Operations Manager: Chris McVey"}]
+                    },
+                     {
+                        "name": "Antimicrobial Resistance",
+                        "children": [
+                             {"name": "Operations Manager: Chris McVey"}]
+                     },
+                     {
+                        "name": "Infection Prevention",
+                        "children": [
+                             {"name": "Operations Manager: Chris McVey"}]
+                     },
+                     {
+                        "name": "Control & Decontamination",
+                        "children": [
+                             {"name": "Operations Manager: Chris McVey"}]
+                     },
+                                                
+                {       "name": "EG&T",
+                        "children": [
+                             {"name": "Operations Manager: Johanna Reilly & Carole McRae"}]
+                },
+                    {       "name": "BBV / STI/ VPD",
+                        "children": [
+                             {"name": "Service Manager: Miriam King"}]
+                }]
+          }]                   
+               },
+               {
+        "name": "Clinical Services",
+        "children": [
+            {
+            "name": "Associate Director: Mahmood Adil"
+          }]
                     }]
-        }
+}
